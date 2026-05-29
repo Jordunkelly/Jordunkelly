@@ -10,7 +10,7 @@
 
 ### Stack
 
-![Oracle](https://img.shields.io/badge/Oracle-12c-c74634?style=flat-square&logo=oracle&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-19c-c74634?style=flat-square&logo=oracle&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-expert-c74634?style=flat-square)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES5%2B-f7df1e?style=flat-square&logo=javascript&logoColor=black)
