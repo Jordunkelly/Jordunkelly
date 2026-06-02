@@ -1,5 +1,5 @@
 # Jordan R. Kelly
-**Senior Full Stack Developer · Technical Lead · DoD**
+**Principal Engineer · DoD**
 10+ years owning enterprise systems end-to-end. Sole architect of a live Navy platform. Building with React and LLM APIs on the side.
 📄 **[jordunkelly.github.io](https://jordunkelly.github.io)**
 ---
