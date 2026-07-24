@@ -22,5 +22,5 @@ Electron, Next.js 15, Claude API, LLM Integration, Prisma, Native App Packaging,
 ### Location and Contact
 Boiling Springs, PA | 
 
-Buy me a coffee (paypal): https://paypal.me/bjornserkur
+Buy me a coffee (paypal): https://paypal.me/bjornserkur  
 Toss me a tea (venmo): https://www.venmo.com/u/bjornserkur
