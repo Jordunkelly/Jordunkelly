@@ -1,7 +1,7 @@
 # Jordan R. Kelly
 Principal Engineer, DoD
 
-10 plus years building enterprise systems end to end. Sole architect of a live US Navy platform. Building web apps and AI tools on the side.
+11 plus years building enterprise systems end to end. Sole architect of a live US Navy platform. Building web apps and AI tools on the side.
 
 📄 [jordunkelly.github.io](https://jordunkelly.github.io)
 
