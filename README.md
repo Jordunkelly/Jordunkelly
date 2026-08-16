@@ -3,6 +3,8 @@
 Principal Engineer, DoD. Pennsylvania.
 [jordunkelly.github.io](https://jordunkelly.github.io)
 
+DoD Secret clearance, inactive and reinstatement eligible. Security+, IAT Level II.
+
 By day I build Oracle and PL/SQL systems for the Navy. The kind that have to work the first time, for people who can't afford for them not to.
 
 By night I build the things I wish already existed.
@@ -31,6 +33,8 @@ I like problems where the constraint is the design. Hoard isn't allowed to phone
 
 I read the RFC. I write the test. I ship the installer. Then I use the thing myself until something about it annoys me, and I go fix that. Repeat until it stops annoying me. Honestly, that loop is most of what I know how to do.
 
+Day job runs on the same discipline from the other end: an Agile team, work tracked in Azure DevOps Boards, everything through pull request review, and a live object Oracle deployment model where the release pipeline is mine to build and mine to answer for. Last cycle was 71,000 lines over four months. One major bug on release day, fixed in minutes. That number is the whole job.
+
 I make my own art, too. The sprites, the gifs, the video, the whole 8 bit look of Hoard. That runs through the Grok API and its studio tooling instead of getting farmed out, and going from an idea to a finished asset in an afternoon quietly changes what one person is allowed to attempt.
 
 Enterprise work taught me the discipline. Side projects are where I get to find out what I actually think.
@@ -39,11 +43,14 @@ Enterprise work taught me the discipline. Side projects are where I get to find 
 
 Build: `Oracle 19c` `PL/SQL` `Java` `TypeScript` `React` `Next.js 15` `Electron` `Prisma` `SQLite` `Tailwind` `PHP` `Vitest` `Playwright`
 
+Ship: `Azure DevOps` `CI/CD` `Git` `Inno Setup` `code signing`
+
 Agents and models: `Claude API` `Grok API` `OpenAI API` `Antigravity` `Gemini`
 
 Assets: `Grok Imagine` for sprites, gifs, and video
 
 ## What I'm on right now
 
-Taking Hoard from private beta to a public paid release. Code signing, storefront distribution, and moving mail auth over to OAuth2 so it outlives the app password era.
+Taking Hoard from private beta to a public paid release. Code signing and storefront distribution.
 
+Mail auth is staying on direct IMAP over TLS. I looked at moving to OAuth2 and decided against it: I'm not interested in holding an API key that can read a user's mailbox, and I don't think users should have to grant one to a finance app that never phones home. Where a provider still allows a direct IMAP connection the user sets up themselves, Hoard supports it. Where a provider has closed that door, I'd rather publish the compatibility list and say so plainly than pretend the door is open.
