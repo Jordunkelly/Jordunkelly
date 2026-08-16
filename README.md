@@ -3,8 +3,6 @@
 Principal Engineer, DoD. Pennsylvania.
 [jordunkelly.github.io](https://jordunkelly.github.io)
 
-DoD Secret clearance, inactive and reinstatement eligible. Security+, IAT Level II.
-
 By day I build Oracle and PL/SQL systems for the Navy. The kind that have to work the first time, for people who can't afford for them not to.
 
 By night I build the things I wish already existed.
