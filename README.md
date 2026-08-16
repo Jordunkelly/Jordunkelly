@@ -47,6 +47,3 @@ Assets: `Grok Imagine` for sprites, gifs, and video
 
 Taking Hoard from private beta to a public paid release. Code signing, storefront distribution, and moving mail auth over to OAuth2 so it outlives the app password era.
 
-## Say hi
-
-****. I answer.
