@@ -21,7 +21,7 @@ Buy it once, own it forever, and fixes are free.
 
 ## Also on the bench
 
-**LLM tooling.** Prompt chaining, structured outputs, and agent driven workflows on the Claude and OpenAI APIs. Most of it pointed at the unglamorous half of software: release engineering, migrations, the tests nobody wants to write.
+**LLM tooling.** Prompt chaining, structured outputs, and agent driven workflows on the Claude, Grok, and OpenAI APIs. Most of it pointed at the unglamorous half of software: release engineering, migrations, the tests nobody wants to write.
 
 **[webworks](https://github.com/Jordunkelly/webworks).** Full stack web applications.
 
@@ -31,11 +31,17 @@ I like problems where the constraint is the design. Hoard isn't allowed to phone
 
 I read the RFC. I write the test. I ship the installer. Then I use the thing myself until something about it annoys me, and I go fix that. Repeat until it stops annoying me. Honestly, that loop is most of what I know how to do.
 
+I make my own art, too. The sprites, the gifs, the video, the whole 8 bit look of Hoard. That runs through the Grok API and its studio tooling instead of getting farmed out, and going from an idea to a finished asset in an afternoon quietly changes what one person is allowed to attempt.
+
 Enterprise work taught me the discipline. Side projects are where I get to find out what I actually think.
 
 ## Tools of the trade
 
-`Oracle 19c` `PL/SQL` `Java` `TypeScript` `React` `Next.js 15` `Electron` `Prisma` `SQLite` `Tailwind` `PHP` `Vitest` `Playwright` `Claude API` `OpenAI API`
+Build: `Oracle 19c` `PL/SQL` `Java` `TypeScript` `React` `Next.js 15` `Electron` `Prisma` `SQLite` `Tailwind` `PHP` `Vitest` `Playwright`
+
+Agents and models: `Claude API` `Grok API` `OpenAI API` `Antigravity` `Gemini`
+
+Assets: `Grok Imagine` for sprites, gifs, and video
 
 ## What I'm on right now
 
