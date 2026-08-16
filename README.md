@@ -1,6 +1,6 @@
 # Jordan R. Kelly
 
-Principal Engineer, DoD. Boiling Springs, PA.
+Principal Engineer, DoD. Pennsylvania.
 [jordunkelly.github.io](https://jordunkelly.github.io)
 
 By day I build Oracle and PL/SQL systems for the Navy. The kind that have to work the first time, for people who can't afford for them not to.
