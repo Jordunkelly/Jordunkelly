@@ -15,7 +15,7 @@ Every personal finance app wants your bank password or a Plaid token. I didn't w
 
 Hoard reads the transaction alerts your bank already emails you and turns them into a live cash flow forecast, automatic bill detection, and spending analytics. Next.js 15 and Electron sitting on Prisma and SQLite. Your mailbox credentials get sealed against the OS keychain, so a copied database file is useless on anybody else's machine. One click installer.
 
-1,784 unit tests across 74 files, plus 15 that run against the packaged build, because there is nobody else to catch it.
+1,862 unit tests across 78 files, plus 23 in the browser and 15 that run against the packaged build, because there is nobody else to catch it.
 
 No server. No telemetry. No account. There's nothing to breach because there's nothing out there.
 
@@ -23,7 +23,7 @@ Buy it once, own it forever, and fixes are free. That's the deal when it ships. 
 
 ## Also on the bench
 
-**LLM tooling.** Prompt chaining, structured outputs, and agent driven workflows on the Claude, Grok, and OpenAI APIs. Most of it pointed at the unglamorous half of software: release engineering, migrations, the tests nobody wants to write.
+**Agentic tooling.** I build through agents now, not around them. Claude Code and Antigravity, MCP servers, parallel worktrees with collision interlocks so two agents never land on the same file, and verification gates that refuse the release when a check fails. Prompt chaining and structured JSON contracts on the Claude, Grok, OpenAI, and Gemini APIs. Most of it pointed at the unglamorous half of software: release engineering, migrations, the tests nobody wants to write.
 
 **[webworks](https://github.com/Jordunkelly/webworks).** Full stack web applications.
 
@@ -33,7 +33,7 @@ I like problems where the constraint is the design. Hoard isn't allowed to phone
 
 I read the RFC. I write the test. I ship the installer. Then I use the thing myself until something about it annoys me, and I go fix that. Repeat until it stops annoying me. Honestly, that loop is most of what I know how to do.
 
-Day job runs on the same discipline from the other end. Four applications are mine and I'm technical lead for two developers. Agile team, work tracked in Azure DevOps Boards, and a live object Oracle deployment model where the release pipeline is mine to build and mine to answer for. Last cycle was 71,000 lines over four months. One major bug on release day, fixed in minutes. That number is the whole job.
+Day job runs on the same discipline from the other end. Three applications are mine and I'm technical lead for two developers. Agile team, work tracked in Azure DevOps Boards, and a live object Oracle deployment model where the release pipeline is mine to build and mine to answer for. Last cycle was 71,000 lines over four months. One major bug on release day, fixed in minutes. That number is the whole job.
 
 There's no Git on that stack, which is a funny thing to write on GitHub. The rollback the platform hands you snapshots compiled object text into a table and reverts to that compile, and it is not guaranteed to come back. So the real discipline is my own object snapshots and pre staged backups on every promotion through preprod. You learn to keep the blast radius small.
 
@@ -47,7 +47,7 @@ Build: `Oracle 19c` `PL/SQL` `Java` `TypeScript` `React` `Next.js 15` `Electron`
 
 Ship: `Azure DevOps` `CI/CD` `Git` `Inno Setup` `code signing`
 
-Agents and models: `Claude API` `Grok API` `OpenAI API` `Antigravity` `Gemini`
+Agents and models: `Claude Code` `Antigravity` `MCP` `Claude API` `Grok API` `OpenAI API` `Gemini`
 
 Assets: `Grok Imagine` for sprites, gifs, and video
 
