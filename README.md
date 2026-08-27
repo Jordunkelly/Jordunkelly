@@ -35,6 +35,8 @@ I read the RFC. I write the test. I ship the installer. Then I use the thing mys
 
 Day job runs on the same discipline from the other end. Three applications are mine and I'm technical lead for two developers. Agile team, work tracked in Azure DevOps Boards, and a live object Oracle deployment model where the release pipeline is mine to build and mine to answer for. Last cycle was 71,000 lines over four months. One major bug on release day, fixed in minutes. That number is the whole job.
 
+None of it stands alone either. Data moves in and out over APIs to DAAS and DLA, so half of an integration is agreeing the contract with another agency's team and the other half is living with what you agreed.
+
 There's no Git on that stack, which is a funny thing to write on GitHub. The rollback the platform hands you snapshots compiled object text into a table and reverts to that compile, and it is not guaranteed to come back. So the real discipline is my own object snapshots and pre staged backups on every promotion through preprod. You learn to keep the blast radius small.
 
 I make my own art, too. The sprites, the gifs, the video, the whole 8 bit look of Hoard. That runs through the Grok API and its studio tooling instead of getting farmed out, and going from an idea to a finished asset in an afternoon quietly changes what one person is allowed to attempt.
